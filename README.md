@@ -1,5 +1,5 @@
-# Tic-Tac-Toe-C-project
-Tic-Tac-Toe in C programing language with rule-based AI opponent
+# Tic-Tac-Toe in C
+
 A terminal-based Tic-Tac-Toe game with two modes: Two Player and Vs Computer.
 
 ## Features
